@@ -1,4 +1,7 @@
-## For Vosk (Voice recognition)
+## Python version
+This project has only tested on Python3.11
+
+## Voice recognition
 
 ### Microphone access
 Pyaudio Download: https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio  
@@ -10,4 +13,4 @@ Download your model: https://alphacephei.com/vosk/models
 The _vosk-model-small-pt-0.3_ is already in ./assets
 
 ##Installing requirements
-`pip install vosk`
+`pip install vosk pyttsx3 pyqt6 pyqtdarktheme`
