@@ -13,4 +13,4 @@ Download your model: https://alphacephei.com/vosk/models
 The _vosk-model-small-pt-0.3_ is already in ./assets
 
 ##Installing requirements
-`pip install vosk pyttsx3 pyqt6 pyqtdarktheme`
+`pip install vosk pyttsx3 pyqt6 pyqtdarktheme chatterbot==1.0.4`
